@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pressure Data</title>
+    <script>
+        var intervalID; // Variable to store the interval ID
+
+        // Function to update the table with new data
+        function updateTable() {
+            var table = document.getElementById("pressureData");
+            var xhr = new XMLHttpRequest();
+
+            // Define the URL of the PHP script that fetches the data
+            xhr.open("GET", "sensor_data.php", true);
+
+            // Define what to do when the response is received
+            xhr.onload = function () {
+                if (xhr.status === 200) {
+                    table.innerHTML = xhr.responseText;
+                }
+            };
+
+            // Send the request to fetch data
+            xhr.send();
+        }
+
+        // Set interval to update table every 2 seconds
+        intervalID = setInterval(updateTable, 2000);
+
+        // Stop fetching data when the window is closed
+        window.onbeforeunload = function() {
+            clearInterval(intervalID);
+        };
+    </script>
+</head>
+<body><center>
+
+    <h1>Pressure Data</h1>
+
+    <table id="pressureData" border="1">
+        <tr>
+            <th>ID</th>
+            <th>Pressure (hPa)</th>
+            <th>Timestamp</th>
+        </tr>
+    </table>
+	</center>
+	
+</body>
+</html>

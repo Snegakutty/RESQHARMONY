@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 480px; /* Set height to 480px */
+            width: 960px; /* Set width to 960px */
+            margin: auto; /* Center the content */
+        }
+
+        form {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+        }
+
+        .center {
+            text-align: center;
+        }
+        .signup-block{
+            width: 500px;
+        height: 350px;
+        }
+    </style>
+</head>
+<body>
+    <section class="signup-block">
+            <form id="signupForm">
+                <h2 class="center">Sign Up</h2>
+                <label for="fullName">Full Name:</label>
+                <input type="text" id="fullName" name="fullName" required>
+    
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+    
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+    
+                <button type="button" onclick="signUp()">Sign Up</button>
+    
+                <p class="center">Already have an account? <a href="resq.html">Login</a></p>
+            </form>
+           
+    </section>
+
+    <script>
+        function signUp() {
+            var fullName = document.getElementById("fullName").value;
+            var email = document.getElementById("email").value;
+            var password = document.getElementById("password").value;
+
+            // Perform signup validation and processing (can be extended for server-side registration)
+            if (fullName && email && password) {
+                alert("Account created successfully!");
+                window.location.href = "personalinfo.html";
+            } else {
+                alert("Please fill in all the required fields.");
+            }
+
+
+
+        }
+    </script>
+</body>
+</html>

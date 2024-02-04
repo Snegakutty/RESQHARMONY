@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>More Information</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        form {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 400px;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <section class="more-info-block">
+        <form id="moreInfoForm">
+            <h2 class="center">More Information</h2>
+            <div class="form-group">
+                <label for="vehicleModel">Vehicle Model:</label>
+                <input type="text" id="vehicleModel" name="vehicleModel" required>
+            </div>
+            <div class="form-group">
+                <label for="vehicleNo">Vehicle Number:</label>
+                <input type="text" id="vehicleNo" name="vehicleNo" required>
+            </div>
+            <div class="form-group">
+                <label for="vehicleColor">Vehicle Color:</label>
+                <input type="text" id="vehicleColor" name="vehicleColor" required>
+            </div>
+            <div class="form-group">
+                <label for="familyMemberName">Family Member Name:</label>
+                <input type="text" id="familyMemberName" name="familyMemberName" required>
+            </div>
+            <div class="form-group">
+                <label for="contactNumber1">Contact Number 1:</label>
+                <input type="tel" id="contactNumber1" name="contactNumber1" required>
+            </div>
+            <div class="form-group">
+                <label for="contactNumber2">Contact Number 2:</label>
+                <input type="tel" id="contactNumber2" name="contactNumber2">
+            </div>
+            <button type="button" onclick="submitForm()">Submit</button>
+            <p class="center">Go back to <a href="signin.html">Sign Up</a></p>
+        </form>
+    </section>
+
+    <script>
+        function submitForm() {
+            var vehicleModel = document.getElementById("vehicleModel").value;
+            var vehicleNo = document.getElementById("vehicleNo").value;
+            var vehicleColor = document.getElementById("vehicleColor").value;
+            var familyMemberName = document.getElementById("familyMemberName").value;
+            var contactNumber1 = document.getElementById("contactNumber1").value;
+            var contactNumber2 = document.getElementById("contactNumber2").value;
+
+            // Perform validation and processing for additional fields here
+            if (vehicleModel && vehicleNo && vehicleColor && familyMemberName && contactNumber1) {
+                // Proceed to submission or further processing
+                alert("More information submitted successfully!");
+                window.location.href = "resq.html";
+            } else {
+                alert("Please fill in all the required fields.");
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Get User's Location</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        .content-box {
+            /* Additional styling for your content box if needed */
+        }
+
+        img {
+            width: 200px; /* Adjust the width as needed */
+        }
+
+        #signinBtn {
+            font-size: 18px; /* Adjust the font size as needed */
+            padding: 15px 30px; /* Adjust the padding as needed */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="content-box">
+            <img src="logo.jpg" alt="LOGO">
+            <h1>Get User's Location</h1>
+            <p></p>
+            <button id="signinBtn" onclick="redirectToPage()" disabled>Sign In</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+<script>
+    function redirectToPage() {
+        // Change the URL to the desired page
+        window.location.href = "resq.html";
+    }
+</script>
