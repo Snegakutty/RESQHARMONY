@@ -1,3 +1,8 @@
+![logo](https://github.com/Snegakutty/RESQHARMONY/assets/132530737/b5697008-c8fa-4c46-8683-2349ed75af21)
+![sms](https://github.com/Snegakutty/RESQHARMONY/assets/132530737/8e16f0d4-2340-4b0a-8369-fcdb7d830466)
+<img width="238" alt="Magnetic reed switch" src="https://github.com/Snegakutty/RESQHARMONY/assets/132530737/37d8a9a5-5a97-4fe1-af06-4675c84f8ad6">
+![img](https://github.com/Snegakutty/RESQHARMONY/assets/132530737/15a5ac62-178c-4876-865e-0c463786c1cb)
+![EDR](https://github.com/Snegakutty/RESQHARMONY/assets/132530737/3a1e8a96-17c1-48d6-8473-f29c324166c0)
 <h1 align="center" style="border-bottom: none">
     <b>
         <a href="https://www.google.com"> RESQ HARMONY </a><br>
