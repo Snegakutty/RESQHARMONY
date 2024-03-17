@@ -1,4 +1,4 @@
-![EDR](https://github.com/Snegakutty/RESQHARMONY/assets/132530737/c03f3e11-7c17-466a-afa1-b3b684baba1d)
+
 
 <h1 align="center" style="border-bottom: none">
     <b>
