@@ -55,7 +55,7 @@ Stay ahead of the curve with RES Q Harmony and experience the future of emergenc
 * Python-As programming Language 
 * GPS-To send current location of user to the hospitals and to obtain information of nearest hospitals
 * FrontEnd-HTML,CSS,BOOTSTRAP,REACT
-![flowchart](https://drive.google.com/file/d/1S5jSDZ3fUlQ5RC2i5Yb-NIisqO5JVSNo/view?usp=sharing)
+  ![img](https://github.com/Snegakutty/RESQHARMONY/assets/132530737/8cccd3da-4006-4d03-be2d-c478b24c10cd)
 
 ## Techstacks used 
 `html` , `css` , `bootstrap` , `react` , `EDR`,`GPS`
