@@ -19,7 +19,7 @@ PROTOTYPE WORKING:Continuous monitoring of the compressed airbag box compartment
 
 <div style="display: flex; flex-wrap: wrap;">
     
-    <img alt="logo" src="https://github.com/Snegakutty/RESQHARMONY/assets/132530737/37d8a9a5-5a97-4fe1-af06-4675c84f8ad6""
+    <img alt="Magnetic reed switches" src="https://github.com/Snegakutty/RESQHARMONY/assets/132530737/37d8a9a5-5a97-4fe1-af06-4675c84f8ad6"
  alt="Image 1" style="width: 30%; margin: 5px;">
     <img alt="logo" src="https://github.com/Snegakutty/RESQHARMONY/assets/132530737/b5697008-c8fa-4c46-8683-2349ed75af21"
  alt="Image 1" style="width: 30%; margin: 5px;">
