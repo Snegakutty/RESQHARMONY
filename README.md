@@ -18,7 +18,8 @@ PROTOTYPE WORKING:Continuous monitoring of the compressed airbag box compartment
 | ROOPA SHREE S | roopashrees.cse20222@citchennai.net|
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="img" alt="Image 1" style="width: 30%; margin: 5px;">
+    <img src="![sms](https://github.com/Snegakutty/RESQHARMONY/assets/132530737/98549d1f-1056-437e-994b-ae347b485110)
+" alt="Image 1" style="width: 30%; margin: 5px;">
     <img src="https://drive.google.com/file/d/1hqWGwK7iTI35TCsEuFbYt_9_5TQKMxi-/view?usp=sharing" alt="Image 2" style="width: 30%; margin: 5px;">
     <img src="https://drive.google.com/file/d/1OB1DC5Et9bpjBM5lI8l3rd3_DznuUsLK/view?usp=sharing" alt="Image 3" style="width: 30%; margin: 5px;">
     <img src="https://drive.google.com/file/d/1Z8knDdW7CLmPwFwzigJ97r-RphvNVRk6/view?usp=sharing" alt="Image 3" style="width: 30%; margin: 5px;">
