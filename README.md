@@ -1,3 +1,4 @@
+![logo](https://github.com/Snegakutty/RESQHARMONY/assets/132530737/cfd01325-03ff-4072-961c-ffd8cfec4280)
 <h1 align="center" style="border-bottom: none">
     <b>
         <a href="https://www.google.com"> RESQ HARMONY </a><br>
@@ -18,10 +19,11 @@ PROTOTYPE WORKING:Continuous monitoring of the compressed airbag box compartment
 | ROOPA SHREE S | roopashrees.cse20222@citchennai.net|
 
 <div style="display: flex; flex-wrap: wrap;">
-    
+   <img width="30%"  alt="logo" src="https://github.com/Snegakutty/RESQHARMONY/assets/132530737/cfd01325-03ff-4072-961c-ffd8cfec4280" style ="width:30%; margin:5px;"> 
    <img width="30%"  alt="Magnetic reed switch" src="https://github.com/Snegakutty/RESQHARMONY/assets/132530737/5a9affeb-35d7-4f04-b928-a387c85020c8" style ="width:30%; margin:5px;">
+   
     <img alt="EDR" src="https://github.com/Snegakutty/RESQHARMONY/assets/132530737/3a1e8a96-17c1-48d6-8473-f29c324166c0"
- alt="Image 1" style="width: 30%; margin: 5px;">
+ alt="Image 2" style="width: 30%; margin: 5px;">
     <img alt="sms" src="https://github.com/Snegakutty/RESQHARMONY/assets/132530737/8e16f0d4-2340-4b0a-8369-fcdb7d830466"
  alt="Image 1" style="width: 30%; margin: 5px;">
 </div>
