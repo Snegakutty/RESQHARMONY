@@ -1,8 +1,3 @@
-![logo](https://github.com/Snegakutty/RESQHARMONY/assets/132530737/b5697008-c8fa-4c46-8683-2349ed75af21)
-![sms](https://github.com/Snegakutty/RESQHARMONY/assets/132530737/8e16f0d4-2340-4b0a-8369-fcdb7d830466)
-<img width="238" alt="Magnetic reed switch" src="https://github.com/Snegakutty/RESQHARMONY/assets/132530737/37d8a9a5-5a97-4fe1-af06-4675c84f8ad6">
-![img](https://github.com/Snegakutty/RESQHARMONY/assets/132530737/15a5ac62-178c-4876-865e-0c463786c1cb)
-![EDR](https://github.com/Snegakutty/RESQHARMONY/assets/132530737/3a1e8a96-17c1-48d6-8473-f29c324166c0)
 <h1 align="center" style="border-bottom: none">
     <b>
         <a href="https://www.google.com"> RESQ HARMONY </a><br>
@@ -23,12 +18,14 @@ PROTOTYPE WORKING:Continuous monitoring of the compressed airbag box compartment
 | ROOPA SHREE S | roopashrees.cse20222@citchennai.net|
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="![sms](https://github.com/Snegakutty/RESQHARMONY/assets/132530737/98549d1f-1056-437e-994b-ae347b485110)
-" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://drive.google.com/file/d/1hqWGwK7iTI35TCsEuFbYt_9_5TQKMxi-/view?usp=sharing" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="https://drive.google.com/file/d/1OB1DC5Et9bpjBM5lI8l3rd3_DznuUsLK/view?usp=sharing" alt="Image 3" style="width: 30%; margin: 5px;">
-    <img src="https://drive.google.com/file/d/1Z8knDdW7CLmPwFwzigJ97r-RphvNVRk6/view?usp=sharing" alt="Image 3" style="width: 30%; margin: 5px;">
-       
+    <img alt="Magnetic reed switch" src="https://github.com/Snegakutty/RESQHARMONY/assets/132530737/37d8a9a5-5a97-4fe1-af06-4675c84f8ad6"
+ alt="Image 1" style="width: 30%; margin: 5px;">
+    <img alt="logo" src="https://github.com/Snegakutty/RESQHARMONY/assets/132530737/b5697008-c8fa-4c46-8683-2349ed75af21"
+ alt="Image 1" style="width: 30%; margin: 5px;">
+    <img alt="EDR" src="https://github.com/Snegakutty/RESQHARMONY/assets/132530737/3a1e8a96-17c1-48d6-8473-f29c324166c0"
+ alt="Image 1" style="width: 30%; margin: 5px;">
+    <img alt="sms" src="https://github.com/Snegakutty/RESQHARMONY/assets/132530737/8e16f0d4-2340-4b0a-8369-fcdb7d830466"
+ alt="Image 1" style="width: 30%; margin: 5px;">
 </div>
 
 ## Problem statement 
