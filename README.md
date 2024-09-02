@@ -15,9 +15,9 @@ PROTOTYPE WORKING:Continuous monitoring of the compressed airbag box compartment
 
 | Name    | Email           |
 |---------|-----------------|
-| SHANGARI C | shangaric12@gmail.com |
+| SNEGA K | snegaagens@gmail.com |
 | SREE SAHAANA N | sreesahaanan2809@gmail.com |
-| ROOPA SHREE S | roopashrees.cse20222@citchennai.net|
+
 
 <div style="display: flex; flex-wrap: wrap;">
    <img width="30%"  alt="logo" src="https://github.com/Snegakutty/RESQHARMONY/assets/132530737/cfd01325-03ff-4072-961c-ffd8cfec4280" style ="width:30%; margin:5px;"> 
