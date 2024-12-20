@@ -17,6 +17,8 @@ PROTOTYPE WORKING:Continuous monitoring of the compressed airbag box compartment
 |---------|-----------------|
 | SNEGA K | snegaagens@gmail.com |
 | SREE SAHAANA N | sreesahaanan2809@gmail.com |
+| SHREENIDHI S | shreenidhisaravanan32@gmail.com |
+
 
 
 <div style="display: flex; flex-wrap: wrap;">
